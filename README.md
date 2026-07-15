@@ -4,6 +4,8 @@
 
 > 天气已经发生，遗憾仍在更新。
 
+🟢 演示站：[yesterday.xn--7ct763b.eu.cc](https://yesterday.xn--7ct763b.eu.cc/)
+
 ## 已实现
 
 - Open-Meteo 昨日与前日天气
