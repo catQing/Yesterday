@@ -33,9 +33,6 @@ yarn-error.log*
 # vercel
 .vercel
 
-# chatgpt site
-.openai/
-
 # typescript
 next-env.d.ts
 /dist/
