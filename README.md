@@ -56,5 +56,3 @@ app/
 ## 部署
 
 项目使用 Vinext 与 Cloudflare 兼容构建。构建完成后会生成 `dist`，其中包含 Worker 入口与静态资源。
-
-如果要把源码创建为新的 ChatGPT Site，请先移除 `.openai/hosting.json` 中现有的项目标识，再按新的 Site 流程创建，避免覆盖当前线上版本。
